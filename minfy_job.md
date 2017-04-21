@@ -14,7 +14,7 @@
 
 # 技能清单
  - java开发：能够使用java编写完整的Android应用程序，独立开发前段后台
- - web开发：使用asp，asp.net编写程序，配置IIS服务器
+ - web开发：使用asp，asp.net编写程序，配置IIS服务器，使用mysql编写基本数据库
  - 前端：HTML/CSS/jquery
  - C:平时刷算法时会使用
  - Linux：能够使用Linux进行日常操作
