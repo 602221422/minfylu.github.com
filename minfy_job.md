@@ -47,13 +47,14 @@
 
 ## 曾获荣誉
 
- - [计算机设计大赛国赛三等奖，省赛一等奖(组长)](https://github.com/602221422/img/blob/master/image/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B%E5%9B%BD%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.JPG)
- - 第十二届挑战杯辽宁省大学生课外学术科技竞赛二等奖（组长）
- - 发表论文《基于Android的校园掌上通--学习模块设计》（第一作者）
- - 辽宁省移动应用开发大赛三等奖（组长）
- - 2016年创青春辽宁省大学生创业大赛三等奖（组员）
- - 正参加第十三届挑战杯（组长），大学生创新创业计划（组员）
- - 暑期社会实践“三下乡”活动校三等奖（组长）
+ - [计算机设计大赛国赛三等奖(组长)](https://github.com/602221422/img/blob/master/image/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B%E5%9B%BD%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.JPG)
+ - 计算机设计大赛省赛一等奖（组长）,证书还未下发  
+ - [第十二届挑战杯辽宁省大学生课外学术科技竞赛二等奖（组长）](https://github.com/602221422/img/blob/master/image/%E6%8C%91%E6%88%98%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BA%8C%E7%AD%89%E5%A5%96.JPG)
+ - [发表论文《移动APP校园掌上通学习系统设计》（第一作者）]
+ - [辽宁省移动应用开发大赛三等奖（组长）](https://github.com/602221422/img/blob/master/image/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E5%BA%94%E7%94%A8%E5%A4%A7%E8%B5%9B%E7%9C%81%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.JPG)
+ - [2016年创青春辽宁省大学生创业大赛三等奖（组员）](https://github.com/602221422/img/blob/master/image/%E5%88%9B%E9%9D%92%E6%98%A5%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B%E7%9C%81%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.JPG)
+ - [正参加大学生创新创业计划（组员）]()
+ - [暑期社会实践“三下乡”活动校三等奖（组长）](https://github.com/602221422/img/blob/master/image/%E6%A0%A1%E8%B5%9B%E6%9A%91%E6%9C%9F%E5%AE%9E%E8%B7%B5%E4%B8%89%E7%AD%89%E5%A5%96.JPG)
 
 ---
 
