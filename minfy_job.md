@@ -36,19 +36,13 @@
    1.此系统为校园掌上通APP的后台管理系统。主要是给管理人员进行登录，增删改查各项信息，分为四级管理员：学校领导，老师，学生，社团成员。  
    2.采用ASP为开发语言，div+CSS设计web布局，使用js编写页面元素特效，界面简单，容易上手操作。  
    3.成功完成此后台系统。可与校园掌上通一同投入使用。学校正在使用的教师后台管理系统功能是此系统中一部分代码，由我提供给计算机专业老师。
-   
- - 2016-2017 工业汽轮机及离心式压缩机检修仿真培训系统  
-   1.两款软件分别为大学生创新创业项目的参赛软件。主要是用于培训员工下厂工作以及师生教学工作。  
-   2.工业汽轮机检修仿真培训系统采用C#为开发语言，使用Visual Studio 2010为开发工具。  
-   3.离心式压缩机检修仿真培训系统采用Visual Basic为开发语言，使用Visual Basic 6.0为开发工具。  
-   3.正在开发中。两款软件开发完成后均投入到辽阳石油化纤公司（简称辽化）使用。  
-  
+ 
 ---
 
 ## 曾获荣誉
 
  - [计算机设计大赛国赛三等奖(组长)](https://github.com/602221422/img/blob/master/image/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B%E5%9B%BD%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.JPG)
- - 计算机设计大赛省赛一等奖（组长）,尚未下发证书 
+ - 计算机设计大赛省赛一等奖（组长）
  - [第十二届挑战杯辽宁省大学生课外学术科技竞赛二等奖（组长）](https://github.com/602221422/img/blob/master/image/%E6%8C%91%E6%88%98%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BA%8C%E7%AD%89%E5%A5%96.JPG)
  - [发表论文《移动APP校园掌上通学习系统设计》（第一作者）](https://github.com/602221422/img/blob/master/image/%E7%9F%A5%E7%BD%91%E6%88%AA%E5%9B%BE.png)
  - [辽宁省移动应用开发大赛三等奖（组长）](https://github.com/602221422/img/blob/master/image/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E5%BA%94%E7%94%A8%E5%A4%A7%E8%B5%9B%E7%9C%81%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.JPG)
@@ -59,7 +53,7 @@
 ---
 
  ## 综合素质
-
+ - 2016-2017  国家奖学金  
  - 2014-2015 [国家励志奖学金](https://github.com/602221422/img/blob/master/image/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91.JPG)
  - 2014-2015 [三好学生](https://github.com/602221422/img/blob/master/image/%E6%A0%A1%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F.JPG)、[三好学生标兵](https://github.com/602221422/img/blob/master/image/%E6%A0%A1%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F%E6%A0%87%E5%85%B5.JPG)
  - 2015-2016 [优秀学生干部](https://github.com/602221422/img/blob/master/image/%E6%A0%A1%E4%BC%98%E7%A7%80%E5%AD%A6%E7%94%9F%E5%B9%B2%E9%83%A8.JPG)
