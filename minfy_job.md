@@ -22,6 +22,7 @@
 
  ## 综合素质
  - 2016-2017  国家奖学金  
+ - 2-16-2017 优秀学生干部
  - 2014-2015 [国家励志奖学金](https://github.com/602221422/img/blob/master/image/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91.JPG)
  - 2014-2015 [三好学生](https://github.com/602221422/img/blob/master/image/%E6%A0%A1%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F.JPG)、[三好学生标兵](https://github.com/602221422/img/blob/master/image/%E6%A0%A1%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F%E6%A0%87%E5%85%B5.JPG)
  - 2015-2016 [优秀学生干部](https://github.com/602221422/img/blob/master/image/%E6%A0%A1%E4%BC%98%E7%A7%80%E5%AD%A6%E7%94%9F%E5%B9%B2%E9%83%A8.JPG)
