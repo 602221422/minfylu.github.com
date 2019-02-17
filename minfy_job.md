@@ -5,28 +5,28 @@
 - 手机：18351577484
 - Email：minfylu@aliyun.com
 - 微信：18351577484
-- 在校四年总绩点排名:2/64
+- 在校四年总绩点排名: 2/64
 ---
 
 ## 曾获荣誉
 
- - [计算机设计大赛国赛三等奖(组长)](https://github.com/602221422/img/blob/master/image/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B%E5%9B%BD%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.JPG)
+ - [计算机设计大赛国赛三等奖(组长)]
  - 计算机设计大赛省赛一等奖（组长）
- - [第十二届挑战杯辽宁省大学生课外学术科技竞赛二等奖（组长）](https://github.com/602221422/img/blob/master/image/%E6%8C%91%E6%88%98%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BA%8C%E7%AD%89%E5%A5%96.JPG)
- - [发表论文《移动APP校园掌上通学习系统设计》（第一作者）](https://github.com/602221422/img/blob/master/image/%E7%9F%A5%E7%BD%91%E6%88%AA%E5%9B%BE.png)
- - [辽宁省移动应用开发大赛三等奖（组长）](https://github.com/602221422/img/blob/master/image/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E5%BA%94%E7%94%A8%E5%A4%A7%E8%B5%9B%E7%9C%81%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.JPG)
- - [2016年创青春辽宁省大学生创业大赛三等奖（组员）](https://github.com/602221422/img/blob/master/image/%E5%88%9B%E9%9D%92%E6%98%A5%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B%E7%9C%81%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.JPG)
+ - [第十二届挑战杯辽宁省大学生课外学术科技竞赛二等奖（组长）]
+ - [发表论文《移动APP校园掌上通学习系统设计》（第一作者）]
+ - [辽宁省移动应用开发大赛三等奖（组长）]
+ - [2016年创青春辽宁省大学生创业大赛三等奖（组员）]
  - 大学生创新创业计划(组员)省级优秀项目
- - [暑期社会实践“三下乡”活动校三等奖（组长）](https://github.com/602221422/img/blob/master/image/%E6%9A%91%E6%9C%9F%E5%AE%9E%E8%B7%B5%E6%A0%A1%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.JPG)
+ - [暑期社会实践“三下乡”活动校三等奖（组长）]
 ---
 
  ## 综合素质
  - 2016-2017  国家奖学金  
  - 2-16-2017 优秀学生干部
- - 2014-2015 [国家励志奖学金](https://github.com/602221422/img/blob/master/image/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91.JPG)
- - 2014-2015 [三好学生](https://github.com/602221422/img/blob/master/image/%E6%A0%A1%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F.JPG)、[三好学生标兵](https://github.com/602221422/img/blob/master/image/%E6%A0%A1%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F%E6%A0%87%E5%85%B5.JPG)
- - 2015-2016 [优秀学生干部](https://github.com/602221422/img/blob/master/image/%E6%A0%A1%E4%BC%98%E7%A7%80%E5%AD%A6%E7%94%9F%E5%B9%B2%E9%83%A8.JPG)
- - 2015-2016 [校二等奖学金](https://github.com/602221422/img/blob/master/image/%E6%A0%A1%E4%BA%8C%E7%AD%89%E5%A5%96%E5%AD%A6%E9%87%91.JPG)
+ - 2014-2015 [国家励志奖学金]
+ - 2014-2015 [三好学生]、[三好学生标兵]
+ - 2015-2016 [优秀学生干部]
+ - 2015-2016 [校二等奖学金]
 
 ---
 
